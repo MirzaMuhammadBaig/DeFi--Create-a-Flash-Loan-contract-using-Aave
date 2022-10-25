@@ -9,11 +9,11 @@
 
 ##### What is flash loan:
 ```
-In traditional finance, borrowers many times are required to offer collateral to receive a loan. This collateral is usually in the form of an asset like a car or home. Banks use this collateral as security to cover losses if the borrower fails to pay. 
+1- In traditional finance, borrowers many times are required to offer collateral to receive a loan. This collateral is usually in the form of an asset like a car or home. Banks use this collateral as security to cover losses if the borrower fails to pay. 
 
-In the world of Decentralized Finance(DeFi), a borrower can receive a loan without the need for providing collateral by using flash loans.
+2- In the world of Decentralized Finance(DeFi), a borrower can receive a loan without the need for providing collateral by using flash loans.
 
-In a flash loan, lenders can both provide a loan to a borrower and be paid back for that loan in a single transaction. This is possible because of the time that a transaction is started and when it is finally committed to a block on the blockchain. 
+3- In a flash loan, lenders can both provide a loan to a borrower and be paid back for that loan in a single transaction. This is possible because of the time that a transaction is started and when it is finally committed to a block on the blockchain. 
 ```
 
 ### Requirements
